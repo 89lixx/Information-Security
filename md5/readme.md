@@ -18,7 +18,7 @@
 
    这一步是整个算法的关键所在。共进行64次迭代。每一次迭代ABCD的值都会发生相应的改变。对于64次迭代的单次迭代流程如下：
 
-   <img src="/Users/apple/Desktop/assets/屏幕快照 2019-11-13 上午12.49.29.png" style="zoom:50%;" />
+   <img src="./assets/2.png" style="zoom:50%;" />
 
    - 绿框的F
 
